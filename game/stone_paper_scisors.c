@@ -10,21 +10,26 @@ void main()
 		printf("\nEnter you'r choice 1-stone, 2-paper, 3-scisors :\n");
 		scanf("%d",&choice);
 		computer_choice = (rand()%3)+1;
-		printf("Computer - %d \n",computer_choice );
 		
 		if (choice==1 && computer_choice==3) 
-			{printf("\n@ VICTORY...........\n\n");}
+			{	printf("\nStone VS Scisors\n");
+				printf("\n@ VICTORY...........\n\n");}
 		else if (choice==2 && computer_choice==1)
-			{printf("\n@ VICTORY...........\n\n");}			
+			{	printf("\nPaper VS Stone\n");
+				printf("\n@ VICTORY...........\n\n");}			
 		else if (choice==3 && computer_choice==2)
-			{printf("\n@ VICTORY...........\n\n");}
+			{	printf("\nScisors VS Paper\n");
+				printf("\n@ VICTORY...........\n\n");}
 		
 		else if (computer_choice==1 && choice==3) 
-			{printf("\n@ LOSS..............\n\n");}
+			{	printf("\nScisors VS Stone\n");
+				printf("\n@ LOSS..............\n\n");}
 		else if (computer_choice==2 && choice==1)
-			{printf("\n@ LOSS..............\n\n");}			
+			{	printf("\nPaper VS Stone\n");
+				printf("\n@ LOSS..............\n\n");}			
 		else if (computer_choice==3 && choice==2)
-			{printf("\n@ LOSS..............\n\n");}
+			{	printf("\nScisorsVS Paper\n");
+				printf("\n@ LOSS..............\n\n");}
 
 		else if(computer_choice==choice)
 			{printf("\n@ TUYE..............\n\n");}
