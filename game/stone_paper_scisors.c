@@ -10,8 +10,10 @@ void main()
 		printf("\nEnter you'r choice 1-stone, 2-paper, 3-scisors :\n");
 		scanf("%d",&choice);
 		computer_choice = (rand()%3)+1;
-		
-		if (choice==1 && computer_choice==3) 
+		if (choice==0)
+			{	printf("\nExit");
+				break;}
+		else if (choice==1 && computer_choice==3) 
 			{	printf("\nStone VS Scisors\n");
 				printf("\n@ VICTORY...........\n\n");}
 		else if (choice==2 && computer_choice==1)
