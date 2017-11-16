@@ -15,7 +15,7 @@ void main()
     printf("Enter the name \n" );
 
     //Hear the "." is knwon as "dot operator"
-
+    //to put value inside an array (string) we use strcpy(str,"The string") it cant be just assigned but can be writen by scanf
     scanf("%s",&s.name );
     printf("Enter the roll_no\n" );
     scanf("%d",&s.roll_no );
