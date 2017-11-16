@@ -1,7 +1,7 @@
 // Struct data structure //
 #include<stdio.h>
 
-struct child
+struct child  //child is name of structure
 {
     char name[30];
     int roll_no;
