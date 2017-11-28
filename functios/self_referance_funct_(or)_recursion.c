@@ -1,4 +1,4 @@
-// Find factorial //
+// Self calling function or Recursion//
 #include <stdio.h>
 
 int fact(int a);
