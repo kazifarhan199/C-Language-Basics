@@ -8,17 +8,17 @@ void main()
     int a[2][2],b[2][2];
     int x,y;
 
-    printf("Enter values of 1st Matrix 2x2 Matrix :\n" );
+    printf("Enter values of 1st Matrix :\n" );
     for (x=0;x<2;x++)
         for(y=0;y<2;y++)
             scanf("%d",&a[x][y] );
 
-            printf("\nEnter values of 2nd 2x2 Matrix\n" );
+    printf("\nEnter values of 2nd Matrix\n" );
     for (x=0;x<2;x++)
         for(y=0;y<2;y++)
             scanf("%d",&b[x][y] );
+    printf("\n" );
 
-    printf("\nThe addition is \n" );
     add(a,b);
 }
 
