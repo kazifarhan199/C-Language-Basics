@@ -1,4 +1,6 @@
 #include"my_header_file.h"
+
+#include"conio.h"
 #include<strings.h>
 
 void main()
@@ -8,4 +10,5 @@ void main()
     gets(a);
     print("\nThis is the string\n");
     print(a);
+    getch();
 }
