@@ -1,7 +1,7 @@
 // Using other functions rather than scanf and printf //
 #include<stdio.h>
 
-void main()
+int main()
 {
     char str[30];
 /*
@@ -19,3 +19,5 @@ void main()
     puts(str);
 
 }
+
+

@@ -1,7 +1,7 @@
 // Number Reverse Half Pyramid //
 #include<stdio.h>
 
-void main()
+int main()
 {
     int i,a;
     for (i=6;i>=1;i--)
@@ -11,3 +11,5 @@ void main()
       printf("\n");
     }
 }
+
+

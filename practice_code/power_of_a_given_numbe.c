@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<math.h>
 
-void main()
+int main()
 {
     int a ,p ,r;
     printf("Enter a number : " );
@@ -22,3 +22,5 @@ void main()
     }
 }
 */
+
+

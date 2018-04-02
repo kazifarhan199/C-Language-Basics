@@ -1,8 +1,10 @@
 // Find Simple Intrest //
 #include<stdio.h>
 
-void main()
+int main()
 {
     float c,f;
     
 }
+
+

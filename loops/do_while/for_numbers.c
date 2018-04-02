@@ -1,7 +1,7 @@
 // Print 1 - 10 numbers //
 #include "stdio.h"
 
-void main()
+int main()
 {
   int a=1;
   do{
@@ -9,3 +9,5 @@ void main()
     a++;
   }while(a<11);
 }
+
+

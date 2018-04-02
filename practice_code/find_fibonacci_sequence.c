@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-void main()
+int main()
 {
     int i,n ,t1=0,t2=1,r;
     printf("Enter a number : " );
@@ -16,3 +16,5 @@ void main()
         t2=r;
     }
 }
+
+

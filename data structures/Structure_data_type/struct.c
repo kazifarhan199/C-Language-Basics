@@ -8,7 +8,7 @@ struct child  //child is name of structure
 };
 //or "s;" (herse structure variable is "s")[either declare (or create object) hear or below in main function]
 
-void main()
+int main()
 {
     struct child s ;
     //or "s;" (herse structure variable is "s")[either declare hear or above]
@@ -23,3 +23,5 @@ void main()
     printf("The name of student is : %s\n",s.name );
     printf("The roll_no of student is : %d\n",s.roll_no );
 }
+
+

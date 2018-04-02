@@ -16,3 +16,5 @@ void  main()
   scanf("%d",&n );
   even_or_odd(n);
 }
+
+

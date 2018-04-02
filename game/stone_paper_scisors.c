@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include<conio.h>
 
-void main()
+int main()
 	{
 		int choice,computer_choice;
 	
@@ -42,3 +42,4 @@ void main()
 	}
 	getch();
 }
+

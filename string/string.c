@@ -2,7 +2,7 @@
 #include<stdio.h>
 #include<string.h>
 
-void main()
+int main()
 {
     char name[30];
     char copy_to[30];
@@ -25,3 +25,4 @@ void main()
     printf("\nLen of name is %d\n",l);
 
 }
+

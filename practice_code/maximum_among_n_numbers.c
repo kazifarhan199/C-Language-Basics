@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main()
+int main()
 {
     int a[100],i,x,max,min;
     printf("Enter how many numbers :" );
@@ -24,3 +24,5 @@ void main()
     printf("The Maximum number is %d \n",max );
     printf("The Minimum number is %d \n",min );
 }
+
+

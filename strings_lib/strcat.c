@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<strings.h>
 
-void main()
+int main()
 {
     char a[10] , b[10] ;
     printf("Enter a string : "  );
@@ -14,3 +14,4 @@ void main()
     printf("\n%s",a );
     printf("\n%s\n",b );
 }
+

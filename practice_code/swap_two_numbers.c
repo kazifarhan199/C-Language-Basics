@@ -2,7 +2,7 @@
 #include<stdio.h>
 int swap(int ,int );
 
-void main()
+int main()
 {
   int a,b;
   printf("Enter two numbers \n" );
@@ -19,3 +19,5 @@ int swap(int a,int b)
   printf("a is : %d\n",a );
   printf("b is : %d\n",b );
 }
+
+

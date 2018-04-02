@@ -1,7 +1,7 @@
 // Weather given number is positive or negative //
 #include<stdio.h>
 
-void main()
+int main()
 {
   int a;
   printf("Enter a number :" );
@@ -14,3 +14,5 @@ void main()
   else
     printf("%d is negative (-) \n",a );
 }
+
+

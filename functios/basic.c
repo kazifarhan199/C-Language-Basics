@@ -1,7 +1,7 @@
 #include <stdio.h>
 int add(int ,int );
 
-void main()
+int main()
 {
     int x,y;
     printf("Enter 2 number :" );
@@ -13,3 +13,5 @@ int add(int a,int b)
 {
     return a+b;
 }
+
+

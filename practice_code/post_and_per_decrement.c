@@ -1,7 +1,7 @@
 // Post and per decrement //
 #include <stdio.h>
 
-void main()
+int main()
 {
     int i=4;
     printf("i in pst increment is %d\n",i++ );
@@ -10,3 +10,5 @@ void main()
         {printf("i is  %d",i);
         i--;}
 }
+
+

@@ -3,7 +3,7 @@
 
 void add(int c[2][2],int d[2][2]);
 
-void main()
+int main()
 {
     int a[2][2],b[2][2];
     int x,y;
@@ -32,3 +32,6 @@ void add(int c[2][2],int d[2][2])
         printf("\n" );
     }
 }
+
+
+

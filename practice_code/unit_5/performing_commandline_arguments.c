@@ -8,3 +8,5 @@ void main(int c , char *st[])
         printf("The string in %d is %s \n",i,st[i] );
     printf("\n");
 }
+
+

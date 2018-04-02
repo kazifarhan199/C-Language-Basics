@@ -6,7 +6,7 @@
 */
 #include<stdio.h>
 
-void main()
+int main()
 {
   int a,b=1,i;
 
@@ -20,3 +20,5 @@ void main()
       printf("\n");
   }
 }
+
+

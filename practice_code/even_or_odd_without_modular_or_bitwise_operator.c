@@ -1,7 +1,7 @@
 // Find whether the given number is even or odd without modular or bitwise op//
 #include<stdio.h>
 
-void main()
+int main()
 {
   int a;
   printf("Enter a number : ");
@@ -12,3 +12,5 @@ void main()
   else
     printf("%d is Odd number \n",a);
 }
+
+

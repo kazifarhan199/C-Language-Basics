@@ -15,3 +15,5 @@ void main ()
     printf("b = %f\n",b );
     printf("c = %c\n",c );
 }
+
+

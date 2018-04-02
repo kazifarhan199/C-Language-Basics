@@ -1,7 +1,7 @@
 // Program find out prime number //
 #include<stdio.h>
 
-void main()
+int main()
 {
     int i,p=0,a;
     printf("Enter a number : ");
@@ -17,3 +17,5 @@ void main()
     else
         printf("%d is not a prime number \n",a );
 }
+
+

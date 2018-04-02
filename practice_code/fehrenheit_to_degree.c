@@ -1,7 +1,7 @@
 // fehrenheit to Degree //
 #include <stdio.h>
 
-void main()
+int main()
 {
     float d,f;
     printf("Enter fehrenheit :\n" );
@@ -9,3 +9,5 @@ void main()
     d=(f-32)/1.8;
     printf("%f\n",d );
 }
+
+

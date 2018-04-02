@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main()
+int main()
 {
     int say;
     again:
@@ -12,3 +12,4 @@ void main()
     }
     printf("This the end of it " );
 }
+

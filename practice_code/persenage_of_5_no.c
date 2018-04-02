@@ -1,7 +1,7 @@
 // Persenage of 5 no //
 #include <stdio.h>
 
-void main()
+int main()
 {
     float a,b,c,d,e;
     float p;
@@ -10,3 +10,5 @@ void main()
     p=(((a+b+c+d+e)*100)/500);
     printf("%f",p );
 }
+
+

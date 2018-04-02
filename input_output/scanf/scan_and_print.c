@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-void main(){
+int main(){
 	int a;
 	float b;
 	char c;
@@ -11,3 +11,4 @@ void main(){
 	printf("The int is %d \nThe float is %f \nThe char is %c",a,b,c);
 	getch();
 }
+

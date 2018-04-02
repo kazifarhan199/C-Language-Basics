@@ -1,7 +1,7 @@
 // Find a Year is leap year or not //
 #include<stdio.h>
 
-void main()
+int main()
 {
   int a;
   printf("Enter a year :" );
@@ -16,3 +16,5 @@ void main()
   else
     printf("%d is not a Leap Year\n",a );
 }
+
+

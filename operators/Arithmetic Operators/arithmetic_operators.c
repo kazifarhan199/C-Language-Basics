@@ -2,7 +2,7 @@
 #include "stdio.h"
 void Arithmetic_operators(int ,int);
 
-void main()
+int main()
 {
   int a,b;
   printf("Enter two numbers :\n " );
@@ -18,3 +18,5 @@ void Arithmetic_operators(int a,int b)
   printf("%d is division\n",a/b );
   printf("%d is modilus\n",a%b );
 }
+
+

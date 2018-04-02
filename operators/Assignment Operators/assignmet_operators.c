@@ -1,7 +1,7 @@
 // Assignment oprerator //
 #include <stdio.h>
 
-void main()
+int main()
 {
     int a=1,b=2,c=4,d=6;
     b*=b;
@@ -10,3 +10,5 @@ void main()
     c/=b;
     printf("%d     %d     %d      %d\n",a,b,c,d );
 }
+
+

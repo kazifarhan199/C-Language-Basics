@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-void main()
+int main()
 {
     int a[2][2],b[2][2];
     int i,j;
@@ -22,3 +22,6 @@ void main()
 
 
 }
+
+
+

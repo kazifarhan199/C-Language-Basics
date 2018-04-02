@@ -1,7 +1,7 @@
 // Logical Operators//
 #include<stdio.h>
 
-void main()
+int main()
 {
   int a,b,c;
   int n=0;   //it's just used for else of all condition
@@ -30,3 +30,5 @@ void main()
     printf("No logical operator\n");
 
 }
+
+

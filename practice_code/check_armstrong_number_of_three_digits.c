@@ -1,7 +1,7 @@
 //  Check Armstrong Number of three digits
 #include<stdio.h>
 
-void main()
+int main()
 {
     int a,b,i,remainders,l=0;
     printf("Enter a number : ");
@@ -20,3 +20,5 @@ void main()
     else
         printf("%d is not an Armstrong number of three digits\n",a );
 }
+
+

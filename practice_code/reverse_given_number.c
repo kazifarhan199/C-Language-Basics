@@ -1,7 +1,7 @@
 // reverse given number///
 #include<stdio.h>
 
-void main()
+int main()
 {
     int a ,r , m=0;
     printf("Enter a number " );
@@ -15,3 +15,5 @@ void main()
     }
     printf("\nReversed Order is : %d",m );
 }
+
+

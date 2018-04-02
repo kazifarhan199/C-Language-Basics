@@ -3,7 +3,7 @@
 
 int adder();
 
-void main()
+int main()
 {
     printf("%d\n",adder() );
     printf("%d\n",adder() );
@@ -16,3 +16,5 @@ int adder()
     a+=1;
     return a;
 }
+
+

@@ -10,10 +10,12 @@ void swap(int x,int y )
     printf("b : %d \n",y );
 }
 
-void main()
+int main()
 {
     int a,b;
     printf("Enter Two numbers : " );
     scanf("%d%d",&a,&b );
     swap(a,b);
 }
+
+

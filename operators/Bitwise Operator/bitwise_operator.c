@@ -1,7 +1,7 @@
 // Bitwise Operator
 #include<stdio.h>
 
-void main()
+int main()
 {
   int a,b;
   printf("Enter two numbers :\n" );
@@ -13,3 +13,5 @@ void main()
   printf("The bitwise << (left  shift by 2) is %d\n",a<<2 );
   printf("The bitwise >> (Right shift by 2) is %d\n",a>>2 );
 }
+
+

@@ -8,9 +8,11 @@ union f
     int a;
 };
 
-void main()
+int main()
 {
     union f a;
     a.a=10;
     printf("%d",a);
 }
+
+

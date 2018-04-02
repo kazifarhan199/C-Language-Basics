@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-void main(){
+int main(){
 	int a=65;
 	printf("\n");
 	while( a<=90){
@@ -10,3 +10,4 @@ void main(){
 	}
 	getch();
 }
+

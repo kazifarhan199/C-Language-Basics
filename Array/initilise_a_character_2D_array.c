@@ -1,7 +1,7 @@
 // initilise an array of 2x2 of values A,B,C,D //
 #include <stdio.h>
 
-void main()
+int main()
 {
     char a[2][2]={'A','B','C','D'};
     int i,j;
@@ -12,3 +12,6 @@ void main()
         printf("\n");
     }
 }
+
+
+

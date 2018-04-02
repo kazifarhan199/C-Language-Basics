@@ -2,7 +2,7 @@
 #include<stdio.h>
 int greater_print(int ,int );
 
-void main()
+int main()
 {
   int a,b;
   printf("Enter two numbers \n");
@@ -19,3 +19,5 @@ int greater_print(int a,int b)
   else
     printf("Both are same\n" );
 }
+
+

@@ -1,7 +1,7 @@
 // pritn even numbers from 1 to 50 //
 #include <stdio.h>
 
-void main()
+int main()
 {
   int a=1;
   do{
@@ -9,3 +9,5 @@ void main()
     a++;                              //OR a+=2
   }while(a<=50);
 }
+
+

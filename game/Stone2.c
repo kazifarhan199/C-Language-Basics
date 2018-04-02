@@ -52,3 +52,5 @@ int loss(){
 	printf("You loss !!........");
 		return 0;
 }
+
+

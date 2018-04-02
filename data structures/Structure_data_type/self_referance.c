@@ -6,7 +6,7 @@ struct NODE
              int value;
 };
 
-void main()
+int main()
 {
     struct NODE a;
     printf("%d\n", sizeof(a));
@@ -14,3 +14,5 @@ void main()
     printf("%d\n", sizeof(a.new));
     printf("Hello World" );
 }
+
+

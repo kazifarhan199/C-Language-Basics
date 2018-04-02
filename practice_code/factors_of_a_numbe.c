@@ -1,7 +1,7 @@
 // Factors of a Numbe//
 #include<stdio.h>
 
-void main()
+int main()
 {
     int a,i;
     printf("Enter a number : " );
@@ -12,3 +12,5 @@ void main()
             printf("%d\t",i );
     }
 }
+
+

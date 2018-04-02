@@ -1,7 +1,7 @@
 // Find the length of number //
 #include <stdio.h>
 
-void main()
+int main()
 {
     int a,c=0;
     printf("Enter a number : " );
@@ -14,3 +14,5 @@ void main()
     }
     printf("\nThe length of number is : %d",c );
 }
+
+

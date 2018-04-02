@@ -1,7 +1,7 @@
 // Relational Operators //
 #include<stdio.h>
 void  Relational_operators(int ,int);
-void main()
+int main()
 {
     int a,b;
     printf("Enter two numbers \n" );
@@ -25,3 +25,5 @@ void  Relational_operators(a,b)
   if (a != b)
     printf("%d != %d\n",a,b);
 }
+
+

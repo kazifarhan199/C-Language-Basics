@@ -1,7 +1,7 @@
 // Take value of an array of 2x2 //
 #include <stdio.h>
 
-void main()
+int main()
 {
     char a[2][2];
     int x,y;
@@ -17,3 +17,6 @@ void main()
         printf("\n");
     }
 }
+
+
+

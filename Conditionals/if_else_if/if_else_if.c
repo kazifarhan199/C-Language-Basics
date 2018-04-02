@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-void main(){
+int main(){
 	int a;
 
 	printf("Enter a command [1-3] : \n");
@@ -19,3 +19,5 @@ void main(){
 	
 	getch();
 }
+
+

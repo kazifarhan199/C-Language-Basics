@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 
-void main(){
+int main(){
 	int a;
 
 	printf("Enter a value :\n");
@@ -10,3 +10,5 @@ void main(){
 	(a%2==0)?printf("\n%d is even\n",a):printf("\n%d is Odd\n",a);
 
 }
+
+

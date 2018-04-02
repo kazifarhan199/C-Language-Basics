@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-void main(){
+int main(){
 //	int a;
 	int b;
 	
@@ -16,3 +16,4 @@ void main(){
 	}
 	getch();
 }
+

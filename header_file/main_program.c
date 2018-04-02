@@ -3,7 +3,7 @@
 #include"conio.h"
 #include<strings.h>
 
-void main()
+int main()
 {
     char a[100];
     printf("Enter a string " );
@@ -12,3 +12,5 @@ void main()
     print(a);
     getch();
 }
+
+

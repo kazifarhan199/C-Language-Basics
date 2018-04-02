@@ -3,7 +3,7 @@
 
 int fact(int);
 
-void main()
+int main()
 {
   int a;
   printf("Enter a number : ");
@@ -18,3 +18,5 @@ int fact(a)
   else
     return (a * fact(a-1));
 }
+
+

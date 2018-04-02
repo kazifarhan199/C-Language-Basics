@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
-void main(){
+int main(){
 	int a,b;
 	
 	printf("Enter Starting and ending : \n");
@@ -13,3 +13,4 @@ void main(){
 	}
 	getch();
 }
+

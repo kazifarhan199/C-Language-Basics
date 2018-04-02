@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
     int a;
     float b;
@@ -10,3 +10,5 @@ void main()
     printf("float has size of %d byte\n",sizeof(b) );
     printf("char has size of %d byte\n",sizeof(c) );
 }
+
+

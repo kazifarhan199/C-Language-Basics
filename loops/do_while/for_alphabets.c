@@ -1,7 +1,7 @@
 // pritn A to Z Alphabets
 #include <stdio.h>
 
-void main()
+int main()
 {
   char a='A';
   do{
@@ -9,3 +9,5 @@ void main()
     a++;
   }while(a<='Z');
 }
+
+

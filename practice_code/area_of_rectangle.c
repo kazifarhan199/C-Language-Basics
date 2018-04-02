@@ -1,6 +1,6 @@
 // Area of Rectangle //
 #include<stdio.h>
-void main()
+int main()
 {
     int a,b;
     float r;
@@ -9,3 +9,5 @@ void main()
     r=0.5*a*b;
     printf("r is %f",r );
 }
+
+
