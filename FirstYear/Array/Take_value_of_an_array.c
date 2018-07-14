@@ -5,6 +5,7 @@ int main()
 {
     char a[2][2];
     int x,y;
+    
     for (x=0;x<2;x++)
         for(y=0;y<2;y++)
             scanf("%c",&a[x][y] );
