@@ -1,3 +1,5 @@
+//Alseo called Comparissioin operator
+
 #include<stdio.h>
 
 

@@ -1,3 +1,4 @@
+//Also void but you cant define a variable of void data type
 #include<conio.h>
 #include<stdio.h>
 

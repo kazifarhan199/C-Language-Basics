@@ -32,4 +32,6 @@ int main(){
 	printf("Fighter name is %s\n",jack.name );
 	printf("His health is %d\n",jack.health);
 	printf("His attack is %d\n",jack.attack);
+
+	return 0;
 }
