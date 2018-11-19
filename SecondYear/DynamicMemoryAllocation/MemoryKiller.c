@@ -4,6 +4,7 @@
 void Kill1(int a){
   int *p = (int *)malloc(a*sizeof(int));
 }
+
 int Kill2(){
   int i;
   for (i=0;i<100000000;i++)

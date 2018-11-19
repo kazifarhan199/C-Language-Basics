@@ -17,14 +17,14 @@ int main(){
 	printf("Enter an integer : ");
 	scanf("%d",&integer_1);
 	cahracter_1 = integer_1;
-	printf("Just Changed the d to c  : %c",integer_1);
-	printf("int to char is : %c",cahracter_1);
+	printf("\nJust Changed the d to c  : %c\n",integer_1);
+	printf("\nint to char is : %c",cahracter_1);
 
-	printf("Enter an integer : ");
-	scanf("%c",&cahracter_2);
-	integer_2 = cahracter_2;
-	printf("Just Changed the d to c  : %c",cahracter_2);
-	printf("char to int is : %c",integer_2);
+	// printf("Enter an integer : ");
+	// scanf("%c",&cahracter_2);
+	// integer_2 = cahracter_2;
+	// printf("Just Changed the d to c  : %c",cahracter_2);
+	// printf("char to int is : %c",integer_2);
 
 
 	return 0;
